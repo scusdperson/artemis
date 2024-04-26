@@ -1,4 +1,5 @@
 [
   "thugl!fe",
-  "daniel_is_a_guy"
+  "daniel_is_a_guy",
+  "kidnapper_daddy"
 ]
