@@ -1,5 +1,6 @@
 [
   "thugl!fe",
   "daniel_is_a_guy",
-  "kidnapper_daddy"
+  "kidnapper_daddy",
+  "jessie_is_cool"
 ]
