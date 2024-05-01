@@ -3,5 +3,6 @@
   "daniel_is_a_guy",
   "kidnapper_daddy",
   "jessie_is_cool",
-  "free_drop_free_drop"
+  "free_drop_free_drop",
+  "kai_is_human"
 ]
