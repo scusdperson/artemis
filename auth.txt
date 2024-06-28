@@ -4,5 +4,6 @@
   "kidnapper_daddy",
   "jessie_is_cool",
   "free_drop_free_drop",
-  "kai_is_human"
+  "kai_is_human",
+  "nick_is_epic"
 ]
