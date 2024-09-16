@@ -2,7 +2,7 @@
   "thugl!fe",
   "daniel_is_a_guy",
   "kidnapper_daddy",
-  "jessie_is_cool",
+  "jessie_is_epic",
   "free_drop_free_drop",
   "kai_is_human",
   "nick_is_epic"
